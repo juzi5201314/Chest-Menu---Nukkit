@@ -45,4 +45,4 @@ this is a mcpe server plugin
 
 要改地图上的图片只要更改插件目录下的Menu.png然后重启服务器，记得改名成Menu.png
 
-money使用@him188的money插件<a href = 'http://www.juzi5201314.win/end_poem/end.html'></a>
+money使用@<a href = 'https://github.com/Him188'>him188</a>的<a href = 'https://github.com/MamoeTech/Money'>money</a>插件
