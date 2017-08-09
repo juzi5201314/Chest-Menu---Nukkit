@@ -1,0 +1,12 @@
+name: Menu
+main: Orange.Menu.Main
+version: "1.0.0"
+author: Orange
+api:
+- 1.0.0
+description: Oguns Plugin By Orange (QQ1034236490才是真的Orange，请勿看错成那个"橙子")
+commands:
+ menu:
+  description: "Menu plugin command"
+  usage: "/stop"
+
