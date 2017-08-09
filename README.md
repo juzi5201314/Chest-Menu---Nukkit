@@ -44,3 +44,5 @@ this is a mcpe server plugin
 手持地图潜行打开菜单有几率失败，因为nk的物品存多了nbt就炸
 
 要改地图上的图片只要更改插件目录下的Menu.png然后重启服务器，记得改名成Menu.png
+
+money使用@him188的money插件<a href = 'http://www.juzi5201314.win/end_poem/end.html'></a>
