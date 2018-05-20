@@ -1,5 +1,4 @@
-# Chest-Menu---Nukkit
-this is a mcpe server plugin
+# 一个很久之前写的mcpe服务器插件，基于nukkit服务端，mcpe版本 <= 1.1
 
 一个nk版的箱子菜单，因为我还是萌新(反正萌就对了)，所以写的貌似有点难配置#(滑稽)
 
